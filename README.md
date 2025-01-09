@@ -39,7 +39,7 @@ Mi carrera comenzó como QA, donde descubrí mi pasión por la programación al 
 ### 🚀 **Actualmente trabajando en proyectos que combinan creatividad y tecnología para resolver problemas reales.**
 
 <br>
-<h3>Languages and Tools:</h3>
+<h3>Lenguajes de progrmación y herramientas:</h3>
 <p align="left">
     <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -83,7 +83,7 @@ Mi carrera comenzó como QA, donde descubrí mi pasión por la programación al 
 </a>
 </p>
 
-### ⚡&nbsp;GitHub Analytics
+### ⚡&nbsp;Análisis de GitHub
 
 <p align="center">
 <a href="https://github.com/KeiMartinez">
